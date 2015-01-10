@@ -7,7 +7,7 @@ An interface where you can run & execute queries, display running queries on liv
 
 Contributor:       Zeeshan Khan
 Tags: query interface, show queries, explain queries, display queries
-Tested up to: 4.0
+Tested up to: 4.1
 
 == Installation ==
 
